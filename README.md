@@ -1,6 +1,7 @@
 Frontend Hospital Management System (HTML & CSS) Project Description
 
 The Frontend Hospital Management System is a web application created using HTML and CSS to provide a user-friendly interface for managing hospital operations. The project focuses on delivering a visually appealing, responsive, and accessible platform, designed to simplify workflows and improve user experience for patients, staff, and administrators.
+
 Core Features:
 
     Homepage
