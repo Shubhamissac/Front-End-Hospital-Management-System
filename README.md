@@ -42,3 +42,9 @@ Benefits:
     Offers a robust base that can be expanded with additional features or integrated with backend services.
 
 This project is ideal for showcasing front-end design skills while addressing practical needs in the healthcare sector. It serves as a great starting point for further enhancements and feature development.
+
+Project Gallery
+
+![Screenshot from 2024-12-27 23-31-53](https://github.com/user-attachments/assets/57a3ffd6-4055-4e2c-9c51-71317d330b11)
+
+
